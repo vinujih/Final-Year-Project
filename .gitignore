@@ -16,8 +16,8 @@ data/raw/
 # Processed datasets
 data/processed/
 
-# Feature datasets
-data/features/
+# Interim datasets
+data/interim/
 
 # Trained models
 models/
